@@ -1,0 +1,5 @@
+﻿  Funcion3.c
+C:\Users\Alberto Zarzo\Desktop\Producto3\Producto3\Funcion3.c(29,8): warning C4013: 'leecad' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Alberto Zarzo\Desktop\Producto3\Producto3\Funcion3.c(43,10): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'FILE *'
+C:\Users\Alberto Zarzo\Desktop\Producto3\Producto3\Funcion3.c(51,46): warning C4020: 'strcmp': hay demasiados parámetros reales
+  Producto3.vcxproj -> C:\Users\Alberto Zarzo\Desktop\Producto3\Producto3\x64\Debug\Producto3.exe

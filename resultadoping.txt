@@ -1,0 +1,9 @@
+
+Haciendo ping a 192.168.17.125 con 32 bytes de datos:
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+Tiempo de espera agotado para esta solicitud.
+
+Estad¡sticas de ping para 192.168.17.125:
+    Paquetes: enviados = 3, recibidos = 0, perdidos = 3
+    (100% perdidos),

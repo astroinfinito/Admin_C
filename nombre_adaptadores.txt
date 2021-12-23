@@ -1,0 +1,13 @@
+
+Configuraci¢n para la interfaz "Wi-Fi"
+    DHCP habilitado:                         S¡
+    Direcci¢n IP:                           192.168.1.81
+    Prefijo de subred:                        192.168.1.0/24 (m scara 255.255.255.0)
+    Puerta de enlace predeterminada:                   192.168.1.1
+    M‚trica de puerta de enlace:                       0
+    M‚trica de interfaz:                      35
+    Servidores DNS configurados a trav‚s de DHCP:  80.58.61.250
+                                          80.58.61.254
+    Registrar con el sufijo:           Solo el principal
+    Servidores WINS configurados a trav‚s de DHCP: ninguno
+
